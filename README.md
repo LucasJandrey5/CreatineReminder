@@ -1,4 +1,4 @@
-# 💊 Creatina Tracker
+# 💊 Creatine Reminder
 
 Um app simples e direto feito com **React Native + Expo**, pra te lembrar de tomar creatina todo santo dia — e acompanhar seu streak como um verdadeiro monstro da disciplina.
 
